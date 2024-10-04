@@ -1,7 +1,7 @@
 # Test building docker image from Dockerfile
 FROM alpine
 
-LABEL maintainer="moh.imam@protonmail.com"
+LABEL maintainer="marwaelnemr1@gmail.com"
 
 # Install Node and NPM
 RUN apk add --update nodejs npm curl
